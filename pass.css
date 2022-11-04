@@ -1,0 +1,81 @@
+#bg
+{
+    height: 600px;
+    background: linear-gradient(rgb(19, 14, 14),rgb(1, 11, 72));
+    position: absolute;
+    width: 800px;
+}
+#gen
+{
+    padding-top: 60px;
+    margin-top: 30px;
+   color: white;
+   font-size: 40px;
+   margin-left: 30px;
+}
+#ran
+{
+    margin-top: -20px;
+    color: rgb(17, 229, 73);
+   font-size: 40px;
+   margin-left: 30px;
+}
+#mess
+{
+    margin-top: -20px;
+    color: white;
+    font-size: 20px;
+    margin-left: 30px;
+}
+#but
+{
+    font-weight: 700;
+    margin-top: 70px;
+    height: 50px;
+    width: 230px;
+    font-size: 5px;
+    background-color: rgb(100, 233, 100);
+    color: rgb(6, 21, 8);
+    font-size: 20px;
+    margin-left: 30px;
+    border-radius: 15px;
+}
+#but:hover
+{
+    background-color: aliceblue;
+}
+#line
+{
+    margin-top: 45px;
+    border: none;
+    border-top: solid 1px;
+    border-color: aliceblue;
+    margin-left: 45px;
+    margin-right: 45px;
+    
+
+}
+#but2
+{
+   height:50px; 
+}
+#b1
+{
+    color: white;
+    margin-left: 200px;
+    font-size: 25px;
+    border: 1px solid rgb(17, 255, 0);
+    text-align: center;
+    margin-right: 200px;
+    padding: 12px;
+    background-color: rgb(6, 3, 75);
+    height: 40px;
+    width: 280px;
+}
+#copy
+{
+   height: 20px;
+   width: 55px;
+   margin-left: 423px;
+   margin-top: 5px;
+}
